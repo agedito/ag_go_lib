@@ -1,3 +1,3 @@
-module github.com/agedito/ag_go_lib
+module ag/go_lib
 
 go 1.22
